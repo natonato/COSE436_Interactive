@@ -1,0 +1,15 @@
+﻿  Viewer.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  e:\src\2019_2\수업2019-2\sph_skeleton\include\gl\glut.h(34): note: see previous definition of 'CALLBACK'
+  SPH.cpp
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.h(17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(245): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(246): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(263): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(265): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Simulator.cpp
+  main.cpp
+  Draw.cpp
+  Generating Code...
+  SPH_skeleton.vcxproj -> E:\src\2019_2\수업2019-2\SPH_skeleton\x64\Debug\SPH_skeleton.exe
+  SPH_skeleton.vcxproj -> E:\src\2019_2\수업2019-2\SPH_skeleton\x64\Debug\SPH_skeleton.pdb (Full PDB)

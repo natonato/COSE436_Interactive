@@ -1,0 +1,19 @@
+﻿  Viewer.cpp
+  SPH.cpp
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.h(18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(43): warning C4305: '+=': truncation from 'double' to 'float'
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(44): warning C4305: '+=': truncation from 'double' to 'float'
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(45): warning C4018: '<': signed/unsigned mismatch
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(157): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(207): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(241): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(242): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(259): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(261): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\src\2019_2\수업2019-2\sph_skeleton\sph_skeleton\sph.cpp(264): warning C4018: '<': signed/unsigned mismatch
+  Simulator.cpp
+  main.cpp
+  Draw.cpp
+  Generating Code...
+  SPH_skeleton.vcxproj -> E:\src\2019_2\수업2019-2\SPH_skeleton\Debug\SPH_skeleton.exe
+  SPH_skeleton.vcxproj -> E:\src\2019_2\수업2019-2\SPH_skeleton\Debug\SPH_skeleton.pdb (Full PDB)
